@@ -12,7 +12,7 @@ const Categories = () => {
         Hey,
       </Text>
       <Text style={{fontSize: SIZES.h2, color: COLORS.white}}>
-        Wot's up?+++
+        Wot's up?
       </Text>
       <View
         style={{
